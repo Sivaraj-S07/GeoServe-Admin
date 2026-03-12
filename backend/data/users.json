@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Sivaraj Admin", "email": "admin@gmail.com", "password": "admin123", "role": "admin", "avatar": "", "lat": 13.0827, "lng": 80.2707, "pincode": "600001", "street": "Chennai GPO", "createdAt": "2025-01-01T00:00:00Z" },
+  { "id": 2, "name": "John Miller",   "email": "john@gmail.com",  "password": "worker123","role": "worker","avatar": "", "lat": 13.0600, "lng": 80.2500, "pincode": "600001", "street": "Anna Salai SO", "createdAt": "2025-01-05T00:00:00Z" },
+  { "id": 3, "name": "Mary Chen",     "email": "mary@gmail.com",  "password": "worker123","role": "worker","avatar": "", "lat": 13.0550, "lng": 80.2450, "pincode": "600001", "street": "Anna Salai SO", "createdAt": "2025-01-06T00:00:00Z" },
+  { "id": 4, "name": "Bob Torres",    "email": "bob@gmail.com",   "password": "worker123","role": "worker","avatar": "", "lat": 13.0900, "lng": 80.2800, "pincode": "600001", "street": "Chennai GPO", "createdAt": "2025-01-07T00:00:00Z" },
+  { "id": 5, "name": "Carlos Rivera", "email": "carlos@gmail.com","password": "worker123","role": "worker","avatar": "", "lat": 18.9387, "lng": 72.8353, "pincode": "400001", "street": "Mumbai GPO", "createdAt": "2025-01-08T00:00:00Z" },
+  { "id": 6, "name": "Alice Johnson", "email": "alice@gmail.com", "password": "user123",  "role": "user",  "avatar": "", "lat": 13.0827, "lng": 80.2707, "pincode": "600001", "street": "Chennai GPO", "createdAt": "2025-01-10T00:00:00Z" },
+  { "id": 7, "name": "David Park",    "email": "david@gmail.com", "password": "user123",  "role": "user",  "avatar": "", "lat": 13.0621, "lng": 80.2503, "pincode": "600001", "street": "Anna Salai SO", "createdAt": "2025-01-12T00:00:00Z" }
+]
